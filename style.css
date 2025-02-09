@@ -93,7 +93,6 @@
     text-decoration: underline;
   }
   
-  /* Disclaimer */
   p:last-of-type {
     margin-top: 15px;
     font-size: 0.9rem;
@@ -102,7 +101,6 @@
     font-style: italic;
   }
   
-  /* Responsive Design */
   @media (max-width: 600px) {
     h1 {
       font-size: 2rem;
