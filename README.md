@@ -13,6 +13,6 @@ Pavithra Deepu E-https://github.com/pavithradeepue
 
 Project Description
 Technology Stack
-Frontend: HTML, CSS
+Frontend: HTML, CSS, JavaScript
 Machine Learning: Pretrained AI model for dietary recommendations.
 
