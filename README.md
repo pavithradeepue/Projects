@@ -1,6 +1,6 @@
 PeriodDietCare
 
-PeriodDietCare is an innovative nutrition-focused application designed to assist individuals in managing menstrual discomfort by providing tailored dietary recommendations. The project was conceptualized and developed during an 18-hour hackathon organized as part of Tink_Her_Hack by TinkerHub.
+PeriodDietCare is an innovative nutrition-focused website designed to assist individuals in managing menstrual discomfort by providing tailored dietary recommendations. The project was conceptualized and developed during an 18-hour hackathon organized as part of Tink_Her_Hack by TinkerHub.
 
 Key Features
 Personalized Food Recommendations: Identifies foods that help reduce bloating and discomfort.
