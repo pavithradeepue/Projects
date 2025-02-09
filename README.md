@@ -42,6 +42,11 @@ PeriodDietCare leverages nutritional science and technology to offer customized 
    Input your menstrual symptoms and click on **Get Food Recommendations** to receive tailored dietary advice.
 
 
+## **Demo Video**
+
+Check out our demo video here.
+
+
 
 ## **License**
 
