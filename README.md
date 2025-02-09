@@ -44,8 +44,7 @@ PeriodDietCare leverages nutritional science and technology to offer customized 
 
 ## **Demo Video**
 
-Check out our demo video here.
-
+Check out our demo video https://drive.google.com/drive/folders/1hT4fYUgI-17NTdBMs9hn_aVo31sCKzDa?usp=drive_link
 
 
 ## **License**
